@@ -1,0 +1,9 @@
+Getting ready...
+The template "ASP.NET Core with React.js" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on Individual/Individual.csproj...
+  Restore completed in 2.17 sec for /Users/rushing/2020-identity/Individual/Individual.csproj.
+
+Restore succeeded.
+

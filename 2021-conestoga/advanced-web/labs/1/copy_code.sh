@@ -1,0 +1,1 @@
+sudo cp -rf ./code/* /var/www/html/lab1

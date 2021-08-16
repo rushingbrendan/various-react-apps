@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0AF98B3C-B038-4596-90F7-140892BE1BFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pareto-chart/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="pareto-chart/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pareto-chart" expanded="True">
+            <Node name="pareto-chart" expanded="True">
+              <Node name="ClientApp" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pareto-chart FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

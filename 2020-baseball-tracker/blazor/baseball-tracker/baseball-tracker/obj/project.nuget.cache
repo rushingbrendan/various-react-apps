@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSVuBjfNdQUi35UQpzIIukv1sIxdnRBfpn21YtFLBz4MEgkSsEpIzWjGktEBXVrBEO4rXa5Pt0M4CES8/FUtRw==",
+  "success": true,
+  "projectFilePath": "/Users/rushing/2020-baseball-tracker/blazor/baseball-tracker/baseball-tracker/baseball-tracker.csproj",
+  "expectedPackageFiles": [
+    "/Users/rushing/.nuget/packages/microsoft.aspnetcore.blazor.httpclient/3.2.0-preview2.20160.5/microsoft.aspnetcore.blazor.httpclient.3.2.0-preview2.20160.5.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.configuration/3.1.2/microsoft.extensions.configuration.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.2/microsoft.extensions.configuration.abstractions.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.configuration.binder/3.1.2/microsoft.extensions.configuration.binder.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.2/microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.2/microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.fileproviders.abstractions/2.2.0/microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.http/3.1.2/microsoft.extensions.http.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.logging/3.1.2/microsoft.extensions.logging.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.2/microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.options/3.1.2/microsoft.extensions.options.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.extensions.primitives/3.1.2/microsoft.extensions.primitives.3.1.2.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
+    "/Users/rushing/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

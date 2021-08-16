@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6D2F8ECE-D112-403C-9B1A-53698086A212}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="baseball-tracker/Pages/FetchData.razor">
+    <Files>
+      <File FileName="baseball-tracker/Shared/MainLayout.razor" Line="1" Column="16" />
+      <File FileName="baseball-tracker/Program.cs" />
+      <File FileName="baseball-tracker/Data/WeatherForecastService.cs" />
+      <File FileName="baseball-tracker/Pages/FetchData.razor" Line="7" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.baseball-tracker PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,60 @@
+﻿@page "/baseballgames"
+
+@using baseball_tracker.Data
+@inject BaseballEventService BaseballEventSevice
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from a service.</p>
+
+@if (baseballEvents == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Away Team</th>
+                <th>Score</th>
+                <th>Moneyline</th>
+                <th>RL Type</th>
+                <th>RL</th>
+                <th>Home Team</th>
+                <th>Score</th>
+                <th>Moneyline</th>
+                <th>RL Type</th>
+                <th>RL</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var game in baseballEvents)
+            {
+            <tr>
+                <td>@game.GameTime.TimeOfDay</td>
+                <td>@game.AwayTeam</td>
+                <td>@game.AwayTeamScore</td>
+                <td>@game.AwayTeamOdds.Moneyline</td>
+                <td>@game.AwayTeamOdds.RunlineType</td>
+                <td>@game.AwayTeamOdds.Runline</td>
+                <td>@game.HomeTeam</td>
+                <td>@game.HomeTeamScore</td>
+                <td>@game.HomeTeamOdds.Moneyline</td>
+                <td>@game.HomeTeamOdds.RunlineType</td>
+                <td>@game.HomeTeamOdds.Runline</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private BaseballEvent[] baseballEvents;
+
+    protected override async Task OnInitializedAsync()
+    {
+        baseballEvents = await BaseballEventSevice.GetBaseballEvents();
+    }
+}

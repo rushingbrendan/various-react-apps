@@ -1,0 +1,17 @@
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/bin/Debug/netcoreapp3.1/api.deps.json
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/bin/Debug/netcoreapp3.1/api.runtimeconfig.json
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/bin/Debug/netcoreapp3.1/api.runtimeconfig.dev.json
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/bin/Debug/netcoreapp3.1/api.dll
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/bin/Debug/netcoreapp3.1/api.pdb
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/api.csprojAssemblyReference.cache
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/api.AssemblyInfoInputs.cache
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/api.AssemblyInfo.cs
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/api.RazorTargetAssemblyInfo.cache
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/staticwebassets/api.StaticWebAssets.Manifest.cache
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/staticwebassets/api.StaticWebAssets.xml
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/api.dll
+/Users/rushing/2020-baseball-tracker/blazor/api/api/api/obj/Debug/netcoreapp3.1/api.pdb
